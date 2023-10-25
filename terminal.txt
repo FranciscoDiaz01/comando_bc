@@ -1,0 +1,11 @@
+cd -> Nos permite navegar. (.. nospermite ir a una carpeta arriba/padre)
+ls  -> Nos dice que archivos y carpetas se encuentran en mi locación actual
+ls -l   -> Muestra la información completa de los archivos y carpetas 
+pwd -> Nos dice donde estamos
+mkdir   -> Creamos una nueva carpeta/directorio
+touch   -> Nos permite crear un archivo 
+mv  -> Movemos un archivo de lugar
+chmod   -> Permisos (777)
+rm  -> Elimar archivo o carpeta (vacio)
+rm -rf  ->Eliminar archivo o carpeta ( no vacio)
+rmdir   ->Eliminar carpeta 
